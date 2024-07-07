@@ -1,6 +1,6 @@
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
-#include <Wire.h>
+#include <Wire.h> 
 #include <LiquidCrystal.h>
 #include <Adafruit_NeoPixel.h>
 
