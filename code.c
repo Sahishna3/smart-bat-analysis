@@ -4,7 +4,7 @@
 #include <LiquidCrystal.h>
 #include <Adafruit_NeoPixel.h>
 
-
+ 
  #include <avr/power.h> // Required for 16 MHz Adafruit Trinket
 
 
